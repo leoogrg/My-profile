@@ -1,0 +1,51 @@
+.card-white {
+	-webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.59);
+	-moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.59);
+	box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.59);
+	width: 700px;
+	margin: 40px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px;
+	text-decoration: none;
+
+	color: rgb(101, 106, 129);
+    letter-spacing: 1px;
+    text-align: center;
+    margin: 0 auto;
+    padding-right: 55px;
+    padding-left: 55px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgb(255, 255, 255);
+}
+
+.img-NI {
+	border-radius: 20%
+}
+
+.img-circle {
+	width: 130px;
+	border-radius: 50%
+}
+
+head {
+	background-color: rgb(240, 240, 240);
+}
+
+body {
+	background-color: rgb(240, 240, 240);
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+
+
+
+
+
